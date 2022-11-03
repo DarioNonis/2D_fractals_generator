@@ -17,7 +17,7 @@ This program generate images of fractals like the Mandelbrot set, the Julia set,
 <br/>
 
 <p align="center">
-	<img src="https://github.com/DarioNonis/2D_fractals_generator/blob/main/resources/misc/Newton_1.png" width="700">
+	<img src="https://github.com/DarioNonis/2D_fractals_generator/blob/master/resources/misc/Newton_1.png" width="700">
 </p>
 
 <br/>
@@ -82,7 +82,7 @@ If you just want to test the program without editing the source code, go see the
 ### Julia
 
 <p align="center">
-	<img src="https://github.com/DarioNonis/2D_fractals_generator/blob/main/resources/misc/Julia.png" width="500">
+	<img src="https://github.com/DarioNonis/2D_fractals_generator/blob/master/resources/misc/Julia.png" width="500">
 </p>
 
 <br/>
@@ -90,7 +90,7 @@ If you just want to test the program without editing the source code, go see the
 ### Mandelbrot
 
 <p align="center">
-	<img src="https://github.com/DarioNonis/2D_fractals_generator/blob/main/resources/misc/Mandelbrot.png" width="500">
+	<img src="https://github.com/DarioNonis/2D_fractals_generator/blob/master/resources/misc/Mandelbrot.png" width="500">
 </p>
 
 <br/>
@@ -98,7 +98,7 @@ If you just want to test the program without editing the source code, go see the
 ### Burning Ship
 
 <p align="center">
-	<img src="https://github.com/DarioNonis/2D_fractals_generator/blob/main/resources/misc/Burning_ship.png" width="500">
+	<img src="https://github.com/DarioNonis/2D_fractals_generator/blob/master/resources/misc/Burning_ship.png" width="500">
 </p>
 
 <br/>
@@ -106,7 +106,7 @@ If you just want to test the program without editing the source code, go see the
 ### Buddhabrot
 
 <p align="center">
-	<img src="https://github.com/DarioNonis/2D_fractals_generator/blob/main/resources/misc/Buddhabrot.png" width="500">
+	<img src="https://github.com/DarioNonis/2D_fractals_generator/blob/master/resources/misc/Buddhabrot.png" width="500">
 </p>
 
 <br/>
@@ -114,11 +114,11 @@ If you just want to test the program without editing the source code, go see the
 ### Newton
 
 <p align="center">
-	<img src="https://github.com/DarioNonis/2D_fractals_generator/blob/main/resources/misc/Newton_1.png" width="500">
+	<img src="https://github.com/DarioNonis/2D_fractals_generator/blob/master/resources/misc/Newton_1.png" width="500">
 </p>
 
 <p align="center">
-	<img src="https://github.com/DarioNonis/2D_fractals_generator/blob/main/resources/misc/Newton_2.png" width="500">
+	<img src="https://github.com/DarioNonis/2D_fractals_generator/blob/master/resources/misc/Newton_2.png" width="500">
 </p>
 
 <br/>
